@@ -1,0 +1,8 @@
+syntax: regexp
+\/Thumbs.db$
+^.vagrant\/
+node_modules\/
+bower_components\/
+^.tscache\/
+\/.git\/
+\.DS_STORE
