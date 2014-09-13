@@ -1,10 +1,10 @@
 {
-  "name": "PolymerTest",
-  "description": "",
+  "name": "Polymer IE9 Demo",
+  "description": "Simple Polymer demo that runs in IE9.",
   "homepage": "",
   "keywords": [
   ],
-  "author": "",
+  "author": "Brian Geppert <briangeppert@briangeppert.com>",
   "private": true,
   "dependencies": {
     "polymer": "Polymer/polymer#master",
