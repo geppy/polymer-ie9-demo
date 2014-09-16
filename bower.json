@@ -10,6 +10,7 @@
     "polymer": "Polymer/polymer#master",
     "paper-elements": "Polymer/paper-elements#master",
     "classlist": "~2014.7.23",
-    "matchMedia": "git@github.com:paulirish/matchMedia.js.git#~0.2.0"
+    "matchMedia": "git@github.com:paulirish/matchMedia.js.git#~0.2.0",
+    "reflexie": "git@github.com:doctyper/reflexie.git#develop"
   }
 }
