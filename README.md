@@ -1,7 +1,7 @@
 # Polymer IE9 Demo
 
 ## What this repo contains:
-A Polymer demo with polyfills for FormData and classList.
+A Polymer demo with polyfills for FormData, classList and matchMedia.
 
 ## Instructions:
 1. Clone this repo.
