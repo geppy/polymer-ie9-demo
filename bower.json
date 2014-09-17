@@ -3,13 +3,14 @@
   "description": "Simple Polymer demo that runs in IE9.",
   "homepage": "",
   "keywords": [
-  ],
+	],
   "author": "Brian Geppert <briangeppert@briangeppert.com>",
   "private": true,
   "dependencies": {
     "polymer": "Polymer/polymer#master",
     "paper-elements": "git@github.com:BrianGeppert/paper-checkbox.git#core-animation",
     "classlist": "~2014.7.23",
-    "matchMedia": "git@github.com:paulirish/matchMedia.js.git#~0.2.0"
+    "matchMedia": "git@github.com:paulirish/matchMedia.js.git#~0.2.0",
+    "flexie": "git@github.com:doctyper/flexie.git#~1.0.3"
   }
 }
