@@ -10,6 +10,8 @@
     "polymer": "Polymer/polymer#master",
     "paper-elements": "git@github.com:BrianGeppert/paper-checkbox.git#core-animation",
     "classlist": "~2014.7.23",
-    "matchMedia": "git@github.com:paulirish/matchMedia.js.git#~0.2.0"
+    "matchMedia": "git@github.com:paulirish/matchMedia.js.git#~0.2.0",
+    "core-menu": "Polymer/core-menu#master",
+    "core-item": "Polymer/core-item#master"
   }
 }
